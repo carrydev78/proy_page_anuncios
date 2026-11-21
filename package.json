@@ -1,0 +1,24 @@
+{
+  "name": "proy_page_anuncios",
+  "version": "1.0.0",
+  "description": "-   Este proyecto es el backend para anuncios clasificados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrydev78/proy_page_anuncios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carrydev78/proy_page_anuncios/issues"
+  },
+  "homepage": "https://github.com/carrydev78/proy_page_anuncios#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
